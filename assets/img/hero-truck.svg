@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+  <rect width="900" height="650" rx="40" fill="#f5f8fc"/>
+  <circle cx="713" cy="134" r="70" fill="#ffe9b0"/>
+  <rect x="144" y="254" width="378" height="183" rx="26" fill="#10375c"/>
+  <rect x="522" y="296" width="160" height="141" rx="22" fill="#185287"/>
+  <rect x="578" y="322" width="66" height="56" rx="12" fill="#dff0ff"/>
+  <rect x="194" y="286" width="72" height="26" rx="10" fill="#f3a712"/>
+  <rect x="282" y="286" width="72" height="26" rx="10" fill="#f3a712"/>
+  <rect x="370" y="286" width="72" height="26" rx="10" fill="#f3a712"/>
+  <circle cx="274" cy="460" r="54" fill="#0a2237"/>
+  <circle cx="274" cy="460" r="24" fill="#fff"/>
+  <circle cx="598" cy="460" r="54" fill="#0a2237"/>
+  <circle cx="598" cy="460" r="24" fill="#fff"/>
+  <rect x="114" y="438" width="632" height="24" rx="12" fill="#0b1f33" opacity=".16"/>
+  <g opacity=".9">
+    <rect x="132" y="118" width="162" height="74" rx="18" fill="#fff"/>
+    <text x="166" y="165" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#10375c">ANKARA</text>
+  </g>
+  <g opacity=".95">
+    <rect x="112" y="492" width="676" height="58" rx="18" fill="#fff"/>
+    <text x="155" y="530" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#10375c">Parça Eşya • 1+1 Ev • Kamyonet</text>
+  </g>
+</svg>
